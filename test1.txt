@@ -10,3 +10,4 @@ bbbbbbbbbbbbbbbbb
 asdasdasdasd
 qweqweqweqweqwe
 这本来是第四次增加的内容，但是第三次我忘记板寸了
+这是设置了.ssh之后的测试
